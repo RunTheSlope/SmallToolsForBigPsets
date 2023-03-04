@@ -1,5 +1,5 @@
 /*
-This program can read comma-separated data from the command line
+This program filtering by read comma-separated data from the command line
 & display it in JSON format.
 */
 
