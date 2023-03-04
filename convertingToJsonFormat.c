@@ -1,6 +1,6 @@
 /*
 This program can read comma-separated data from the command line
-& then display it in JSON format.
+& display it in JSON format.
 */
 
 #include <stdio.h>
